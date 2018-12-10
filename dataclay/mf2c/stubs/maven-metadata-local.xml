@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>dataclay.mf2c</groupId>
-  <artifactId>wrapper</artifactId>
+  <artifactId>stubs</artifactId>
   <versioning>
     <release>trunk</release>
     <versions>
       <version>trunk</version>
     </versions>
-    <lastUpdated>20181210160600</lastUpdated>
+    <lastUpdated>20181210160553</lastUpdated>
   </versioning>
 </metadata>
