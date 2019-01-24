@@ -15,4 +15,9 @@ To include dataClay Mf2c wrapper as a dependency in a maven project, add the fol
     <artifactId>wrapper</artifactId>
     <version>trunk</version>
 </dependency>
+<dependency>
+	<groupId>dataclay.mf2c</groupId>
+	<artifactId>stubs</artifactId>
+	<version>trunk</version>
+</dependency>
 ```
